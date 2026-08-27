@@ -569,3 +569,182 @@
         </p>
     </div>
 </section>
+<!-- Seção de Materiais para Experimentos -->
+<section class="experiment-section">
+    <h2>🧪 Materiais para Experimentos de Óptica</h2>
+    <p class="subtitle">Itens essenciais para reproduzir os fenômenos de refração, reflexão e formação de imagens em sala de aula ou em casa.</p>
+    
+    <div class="experiment-grid">
+        <!-- Item 1 -->
+        <div class="experiment-card">
+            <span class="icon">🔍</span>
+            <span class="function" style="background-color: var(--pastel-blue); color: #2A5A6A;">Refração</span>
+            <h3>Kit de Lentes</h3>
+            <p>Lentes biconvexas (convergentes) e bicôncavas (divergentes) de acrílico ou vidro. Essenciais para demonstrar como a luz se curva e forma imagens reais ou virtuais, simulando o cristalino do olho.</p>
+        </div>
+
+        <!-- Item 2 -->
+        <div class="experiment-card">
+            <span class="icon">🌈</span>
+            <span class="function" style="background-color: var(--pastel-pink); color: #7A3A5A;">Dispersão</span>
+            <h3>Prisma Óptico</h3>
+            <p>Prisma triangular de vidro ou acrílico. Ao atravessá-lo, a luz branca se decompõe no espectro visível (arco-íris), provando que diferentes cores possuem índices de refração ligeiramente diferentes.</p>
+        </div>
+
+        <!-- Item 3 -->
+        <div class="experiment-card">
+            <span class="icon">📏</span>
+            <span class="function" style="background-color: var(--pastel-green); color: #2E5A32;">Medição</span>
+            <h3>Bancada Óptica</h3>
+            <p>Um trilho graduado com suportes deslizantes para fonte de luz, lentes e anteparo (tela). Permite medir com precisão a distância do objeto (<em>p</em>) e da imagem (<em>p'</em>) para validar a Equação de Gauss.</p>
+        </div>
+
+        <!-- Item 4 -->
+        <div class="experiment-card">
+            <span class="icon">🔦</span>
+            <span class="function" style="background-color: var(--pastel-yellow); color: #7A6A3A;">Trajetória</span>
+            <h3>Ponteiro Laser e Fumaça</h3>
+            <p>Um ponteiro laser de baixa potência (verde ou vermelho) fornece um feixe de luz coerente e reto. Usar um pouco de fumaça ou vapor de água no trajeto torna o feixe visível, mostrando a reflexão e refração.</p>
+        </div>
+
+        <!-- Item 5 -->
+        <div class="experiment-card">
+            <span class="icon">💧</span>
+            <span class="function" style="background-color: var(--pastel-orange); color: #7A5A3A;">Interface</span>
+            <h3>Cuba de Vidro ou Recipiente</h3>
+            <p>Recipiente transparente com água. Adicionar algumas gotas de leite ou fluoresceína torna a água levemente turva, permitindo visualizar o feixe de luz mudando de direção ao passar do ar para a água (Lei de Snell).</p>
+        </div>
+
+        <!-- Item 6 -->
+        <div class="experiment-card">
+            <span class="icon">🕶️</span>
+            <span class="function" style="background-color: var(--pastel-purple); color: #5A3A7A;">Filtragem</span>
+            <h3>Filtros de Cores</h3>
+            <p>Lâminas de acetato colorido (vermelho, verde, azul). Usados para estudar a absorção e transmissão seletiva da luz, demonstrando por que os objetos possuem cores específicas sob iluminação branca.</p>
+        </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 30px; background: rgba(255,255,255,0.6); padding: 15px; border-radius: 12px; max-width: 800px; margin-left: auto; margin-right: auto;">
+        <p style="margin: 0; color: #5C5C7A; font-size: 0.95rem;">
+            💡 <strong>Dica de Segurança:</strong> Ao realizar experimentos com luz, <strong>nunca</strong> aponte lasers diretamente para os olhos. Use óculos de proteção se estiver trabalhando com fontes de luz intensa ou vidro.
+        </p>
+    </div>
+
+    <!-- Nova Seção: Aquecimento da Piscina do CEP -->
+    <div class="pool-section" style="margin-top: 50px; padding: 30px; background: linear-gradient(135deg, #E8F4F8 0%, #D4E9F0 100%); border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+        <h2 style="text-align: center; color: #2A5A6A; margin-bottom: 10px;">🏊 Aquecimento Solar da Piscina do CEP</h2>
+        <p class="subtitle" style="text-align: center; color: #5C5C7A; margin-bottom: 30px;">
+            Aplicação prática dos conceitos de óptica no sistema de aquecimento da nossa piscina
+        </p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 30px;">
+            
+            <!-- Sistema de Aquecimento -->
+            <div style="background: white; padding: 20px; border-radius: 12px; border-left: 4px solid #4A90A4;">
+                <h3 style="color: #2A5A6A; margin-top: 0;">☀️ Sistema de Aquecimento</h3>
+                <p style="color: #5C5C7A; line-height: 1.6; margin: 10px 0;">
+                    A piscina do CEP utiliza <strong>coletores solares</strong> (placas escuras) que absorvem a radiação solar e transferem o calor para a água. Este processo envolve:
+                </p>
+                <ul style="color: #5C5C7A; line-height: 1.8; padding-left: 20px;">
+                    <li><strong>Absorção de luz:</strong> Superfícies escuras absorvem mais radiação</li>
+                    <li><strong>Efeito estufa:</strong> Vidro sobre os coletores retém o calor</li>
+                    <li><strong>Convecção:</strong> Água quente circula naturalmente pelo sistema</li>
+                </ul>
+            </div>
+
+            <!-- Sensores Utilizados -->
+            <div style="background: white; padding: 20px; border-radius: 12px; border-left: 4px solid #7AB8C9;">
+                <h3 style="color: #2A5A6A; margin-top: 0;">🌡️ Sensores de Temperatura</h3>
+                <p style="color: #5C5C7A; line-height: 1.6; margin: 10px 0;">
+                    Sensores <strong>termistores</strong> (NTC/PTC) e <strong>termopares</strong> monitoram continuamente:
+                </p>
+                <ul style="color: #5C5C7A; line-height: 1.8; padding-left: 20px;">
+                    <li><strong>Temperatura da água:</strong> Mantida entre 26°C e 28°C</li>
+                    <li><strong>Temperatura dos coletores:</strong> Pode atingir 60-80°C</li>
+                    <li><strong>Temperatura ambiente:</strong> Otimiza o ciclo de aquecimento</li>
+                </ul>
+            </div>
+
+            <!-- Sensores Ópticos -->
+            <div style="background: white; padding: 20px; border-radius: 12px; border-left: 4px solid #9AC5D4;">
+                <h3 style="color: #2A5A6A; margin-top: 0;">💡 Sensores Ópticos</h3>
+                <p style="color: #5C5C7A; line-height: 1.6; margin: 10px 0;">
+                    <strong>Fotodiodos</strong> e <strong>fotorresistores</strong> (LDR) detectam a intensidade luminosa:
+                </p>
+                <ul style="color: #5C5C7A; line-height: 1.8; padding-left: 20px;">
+                    <li><strong>Radiação solar:</strong> Mede a quantidade de luz disponível</li>
+                    <li><strong>Controle automático:</strong> Ativa bomba quando há sol suficiente</li>
+                    <li><strong>Eficiência energética:</strong> Evita desperdício em dias nublados</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Relação com os Experimentos -->
+        <div style="background: white; padding: 25px; border-radius: 12px; margin-top: 20px;">
+            <h3 style="color: #2A5A6A; margin-top: 0; text-align: center; margin-bottom: 20px;">🔗 Conexão entre Experimentos e Aquecimento da Piscina</h3>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+                
+                <div style="background: #F8FBFC; padding: 15px; border-radius: 8px;">
+                    <strong style="color: #2A5A6A;">🔍 Lentes → Coletores Solares</strong>
+                    <p style="color: #5C5C7A; font-size: 0.9rem; margin: 8px 0 0 0;">
+                        Assim como lentes convergentes focam a luz, os coletores solares concentram a radiação em superfícies absorvedoras.
+                    </p>
+                </div>
+
+                <div style="background: #F8FBFC; padding: 15px; border-radius: 8px;">
+                    <strong style="color: #2A5A6A;">🌈 Prisma → Espectro Solar</strong>
+                    <p style="color: #5C5C7A; font-size: 0.9rem; margin: 8px 0 0 0;">
+                        O prisma decompõe a luz; na piscina, diferentes comprimentos de onda (cores) carregam diferentes quantidades de energia térmica.
+                    </p>
+                </div>
+
+                <div style="background: #F8FBFC; padding: 15px; border-radius: 8px;">
+                    <strong style="color: #2A5A6A;">💧 Cuba de Água → Piscina Real</strong>
+                    <p style="color: #5C5C7A; font-size: 0.9rem; margin: 8px 0 0 0;">
+                        A refração na cuba demonstra como a luz interage com a água; na piscina, essa interação gera aquecimento por absorção.
+                    </p>
+                </div>
+
+                <div style="background: #F8FBFC; padding: 15px; border-radius: 8px;">
+                    <strong style="color: #2A5A6A;">🕶️ Filtros → Eficiência dos Coletores</strong>
+                    <p style="color: #5C5C7A; font-size: 0.9rem; margin: 8px 0 0 0;">
+                        Filtros absorvem/selecionam cores; coletores solares são projetados para absorver maximamente o espectro visível e infravermelho.
+                    </p>
+                </div>
+
+                <div style="background: #F8FBFC; padding: 15px; border-radius: 8px;">
+                    <strong style="color: #2A5A6A;">🔦 Laser → Sensores Ópticos</strong>
+                    <p style="color: #5C5C7A; font-size: 0.9rem; margin: 8px 0 0 0;">
+                        O laser mostra trajetórias de luz; sensores fotodiodos detectam essa luz para controlar o sistema de aquecimento.
+                    </p>
+                </div>
+
+                <div style="background: #F8FBFC; padding: 15px; border-radius: 8px;">
+                    <strong style="color: #2A5A6A;">📏 Bancada → Medição de Eficiência</strong>
+                    <p style="color: #5C5C7A; font-size: 0.9rem; margin: 8px 0 0 0;">
+                        A bancada mede distâncias focais; na piscina, medimos temperatura e fluxo para calcular a eficiência do aquecimento solar.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Experimento Prático Sugerido -->
+        <div style="background: linear-gradient(135deg, #FFF9E6 0%, #FFF3CC 100%); padding: 20px; border-radius: 12px; margin-top: 20px; border: 2px dashed #D4A843;">
+            <h3 style="color: #7A6A3A; margin-top: 0;">🧪 Experimento Prático: Simulando o Aquecimento Solar</h3>
+            <p style="color: #5C5C7A; line-height: 1.6; margin: 10px 0;">
+                <strong>Materiais:</strong> Recipiente com água, termômetro, lâmpada incandescente (simulando o sol), papel preto e alumínio.
+            </p>
+            <ol style="color: #5C5C7A; line-height: 1.8; padding-left: 20px;">
+                <li>Envolva dois recipientes: um com papel preto (absorvedor) e outro com alumínio (refletor)</li>
+                <li>Coloque ambos sob a lâmpada à mesma distância</li>
+                <li>Meça a temperatura da água a cada 5 minutos usando o termômetro</li>
+                <li>Compare os resultados: o recipiente preto aquecerá mais rápido (como os coletores solares)</li>
+                <li>Repita com diferentes distâncias da lâmpada para simular intensidade solar variável</li>
+            </ol>
+            <p style="color: #7A6A3A; font-style: italic; margin: 15px 0 0 0; font-size: 0.9rem;">
+                💡 Este experimento demonstra os princípios de absorção, reflexão e transferência de calor que ocorrem no sistema de aquecimento da piscina do CEP!
+            </p>
+        </div>
+    </div>
+</section>
