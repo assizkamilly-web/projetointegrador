@@ -508,3 +508,64 @@
 
 </body>
 </html>
+<!-- Seção de Materiais para Experimentos -->
+<section class="experiment-section">
+    <h2>🧪 Materiais para Experimentos de Óptica</h2>
+    <p class="subtitle">Itens essenciais para reproduzir os fenômenos de refração, reflexão e formação de imagens em sala de aula ou em casa.</p>
+    
+    <div class="experiment-grid">
+        <!-- Item 1 -->
+        <div class="experiment-card">
+            <span class="icon">🔍</span>
+            <span class="function" style="background-color: var(--pastel-blue); color: #2A5A6A;">Refração</span>
+            <h3>Kit de Lentes</h3>
+            <p>Lentes biconvexas (convergentes) e bicôncavas (divergentes) de acrílico ou vidro. Essenciais para demonstrar como a luz se curva e forma imagens reais ou virtuais, simulando o cristalino do olho.</p>
+        </div>
+
+        <!-- Item 2 -->
+        <div class="experiment-card">
+            <span class="icon">🌈</span>
+            <span class="function" style="background-color: var(--pastel-pink); color: #7A3A5A;">Dispersão</span>
+            <h3>Prisma Óptico</h3>
+            <p>Prisma triangular de vidro ou acrílico. Ao atravessá-lo, a luz branca se decompõe no espectro visível (arco-íris), provando que diferentes cores possuem índices de refração ligeiramente diferentes.</p>
+        </div>
+
+        <!-- Item 3 -->
+        <div class="experiment-card">
+            <span class="icon">📏</span>
+            <span class="function" style="background-color: var(--pastel-green); color: #2E5A32;">Medição</span>
+            <h3>Bancada Óptica</h3>
+            <p>Um trilho graduado com suportes deslizantes para fonte de luz, lentes e anteparo (tela). Permite medir com precisão a distância do objeto (<em>p</em>) e da imagem (<em>p'</em>) para validar a Equação de Gauss.</p>
+        </div>
+
+        <!-- Item 4 -->
+        <div class="experiment-card">
+            <span class="icon">🔦</span>
+            <span class="function" style="background-color: var(--pastel-yellow); color: #7A6A3A;">Trajetória</span>
+            <h3>Ponteiro Laser e Fumaça</h3>
+            <p>Um ponteiro laser de baixa potência (verde ou vermelho) fornece um feixe de luz coerente e reto. Usar um pouco de fumaça ou vapor de água no trajeto torna o feixe visível, mostrando a reflexão e refração.</p>
+        </div>
+
+        <!-- Item 5 -->
+        <div class="experiment-card">
+            <span class="icon">💧</span>
+            <span class="function" style="background-color: var(--pastel-orange); color: #7A5A3A;">Interface</span>
+            <h3>Cuba de Vidro ou Recipiente</h3>
+            <p>Recipiente transparente com água. Adicionar algumas gotas de leite ou fluoresceína torna a água levemente turva, permitindo visualizar o feixe de luz mudando de direção ao passar do ar para a água (Lei de Snell).</p>
+        </div>
+
+        <!-- Item 6 -->
+        <div class="experiment-card">
+            <span class="icon">🕶️</span>
+            <span class="function" style="background-color: var(--pastel-purple); color: #5A3A7A;">Filtragem</span>
+            <h3>Filtros de Cores</h3>
+            <p>Lâminas de acetato colorido (vermelho, verde, azul). Usados para estudar a absorção e transmissão seletiva da luz, demonstrando por que os objetos possuem cores específicas sob iluminação branca.</p>
+        </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 30px; background: rgba(255,255,255,0.6); padding: 15px; border-radius: 12px; max-width: 800px; margin-left: auto; margin-right: auto;">
+        <p style="margin: 0; color: #5C5C7A; font-size: 0.95rem;">
+            💡 <strong>Dica de Segurança:</strong> Ao realizar experimentos com luz, <strong>nunca</strong> aponte lasers diretamente para os olhos. Use óculos de proteção se estiver trabalhando com fontes de luz intensa ou vidro.
+        </p>
+    </div>
+</section>
